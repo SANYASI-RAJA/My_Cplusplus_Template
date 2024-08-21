@@ -1,56 +1,56 @@
-1.BIT
-  BIT_ranges
-2.Data Strucutre
-  BIT_1D
-  BIT_2D
-  BIT_3D
-  BIT_Range_Update_&_Query
-  Centroid_decomposition
-  Condence_Array
-  Heavy_Light_Decomposition
-  Inversion_Count_By_BIT
-  Mex_operations
-  RMQ_Sparse_table
-  Segment_tree_1D
-  Segment_tree_2D
-  Segment_tree_with_Lazy_Propogation
-3.DP
-  Digit_dp
-  Dp_with_bitset
-  Dp_with_prefix_sum
-  Dp_with_segtree
-  Dp_with_tree
-  Edit_distance
-  Iterative_BItmask_Dp
-  Knapsack
-  Knapsack_with_type_wt_val
-  LCS
-  Li_chao_tree_max
-  Li_chao_tree_min
-  LIS
-  L-R_dp1
-  L-R_dp2
-4.MATH
-  Binary_Exponentiation
-  Bionomial
-  Check_prime
-  FFT
-  FFT_modulo
-  Guass_Jordan_(det_inv_valx)
-  Linear_Diophantine
-  Matrix_operation
-  Mint
-  Prime_range(seg_seive)
-  Sieve
-  Spf_Mobius
-  XOR_Space
-5.String
-  AhoCorasick
-  LCP_array
-  LPS_array
-  Manacher
-  Polynomial_rolling_hash
-  Suffix_array
-  Trie
-  Z_function
+1.BIT <br/>
+  BIT_ranges <br/>
+2.Data Strucutre <br/>
+  BIT_1D <br/>
+  BIT_2D <br/>
+  BIT_3D <br/>
+  BIT_Range_Update_&_Query <br/>
+  Centroid_decomposition <br/>
+  Condence_Array <br/>
+  Heavy_Light_Decomposition <br/>
+  Inversion_Count_By_BIT <br/>
+  Mex_operations <br/>
+  RMQ_Sparse_table <br/>
+  Segment_tree_1D <br/>
+  Segment_tree_2D <br/>
+  Segment_tree_with_Lazy_Propogation <br/>
+3.DP <br/>
+  Digit_dp <br/>
+  Dp_with_bitset <br/>
+  Dp_with_prefix_sum <br/>
+  Dp_with_segtree <br/>
+  Dp_with_tree <br/>
+  Edit_distance <br/>
+  Iterative_BItmask_Dp <br/>
+  Knapsack <br/>
+  Knapsack_with_type_wt_val <br/>
+  LCS <br/>
+  Li_chao_tree_max <br/>
+  Li_chao_tree_min <br/>
+  LIS <br/>
+  L-R_dp1 <br/>
+  L-R_dp2 <br/>
+4.MATH <br/>
+  Binary_Exponentiation <br/>
+  Bionomial <br/>
+  Check_prime <br/>
+  FFT <br/>
+  FFT_modulo <br/>
+  Guass_Jordan_(det_inv_valx) <br/>
+  Linear_Diophantine <br/>
+  Matrix_operation <br/>
+  Mint <br/>
+  Prime_range(seg_seive) <br/>
+  Sieve <br/>
+  Spf_Mobius <br/>
+  XOR_Space <br/>
+5.String <br/>
+  AhoCorasick <br/>
+  LCP_array <br/>
+  LPS_array <br/>
+  Manacher <br/>
+  Polynomial_rolling_hash <br/>
+  Suffix_array <br/>
+  Trie <br/>
+  Z_function <br/>
   
