@@ -1,0 +1,56 @@
+1.BIT
+  BIT_ranges
+2.Data Strucutre
+  BIT_1D
+  BIT_2D
+  BIT_3D
+  BIT_Range_Update_&_Query
+  Centroid_decomposition
+  Condence_Array
+  Heavy_Light_Decomposition
+  Inversion_Count_By_BIT
+  Mex_operations
+  RMQ_Sparse_table
+  Segment_tree_1D
+  Segment_tree_2D
+  Segment_tree_with_Lazy_Propogation
+3.DP
+  Digit_dp
+  Dp_with_bitset
+  Dp_with_prefix_sum
+  Dp_with_segtree
+  Dp_with_tree
+  Edit_distance
+  Iterative_BItmask_Dp
+  Knapsack
+  Knapsack_with_type_wt_val
+  LCS
+  Li_chao_tree_max
+  Li_chao_tree_min
+  LIS
+  L-R_dp1
+  L-R_dp2
+4.MATH
+  Binary_Exponentiation
+  Bionomial
+  Check_prime
+  FFT
+  FFT_modulo
+  Guass_Jordan_(det_inv_valx)
+  Linear_Diophantine
+  Matrix_operation
+  Mint
+  Prime_range(seg_seive)
+  Sieve
+  Spf_Mobius
+  XOR_Space
+5.String
+  AhoCorasick
+  LCP_array
+  LPS_array
+  Manacher
+  Polynomial_rolling_hash
+  Suffix_array
+  Trie
+  Z_function
+  
